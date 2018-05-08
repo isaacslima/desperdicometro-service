@@ -1,18 +1,26 @@
 {
-  "diarias": [
-    {
-    "desperdicioDiariasPermanencia": 210.8,
-    "desperdicioDiariasReadmissao": 0.2,
-    "desperdicioDiariasCondicoesAdquiridas": 1041.8,
-    "desperdicioDiariasIcsap": 0,
-    "desperdicioTotal": 1252.8
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"permanencia": 
+{
+    "permanenciaReal": 225.8,
+    "permanenciaPrevistaAlta": 15,
+    "taxaDesperdicio": 1505.33
+}
+,
+"readmissao": 
+{
+    "qtdeRecaida": 1,
+    "permanenciaRealRecaida": 0.2,
+    "taxaDesperdicio": 0.02
+},
+"condicoesAdquiridas": {
+    "permanenciaReal": 1068.8,
+    "permanenciaPrevistaAlta": 27,
+    "taxaDesperdicio": 3858.52
+},
+"ICSAP": {
+    "qtdeSensivelCuidadoPrimario": 0,
+    "permanenciaRealSensivelCuidadoPrimario": 0,
+    "taxaDesperdicio": 0
+}
+
 }
