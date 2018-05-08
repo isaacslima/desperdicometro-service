@@ -1,7 +1,18 @@
 {
+  "diarias": [
+    {
     "desperdicioDiariasPermanencia": 210.8,
     "desperdicioDiariasReadmissao": 0.2,
     "desperdicioDiariasCondicoesAdquiridas": 1041.8,
     "desperdicioDiariasIcsap": 0,
     "desperdicioTotal": 1252.8
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
